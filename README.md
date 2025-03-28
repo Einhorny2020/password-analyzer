@@ -6,7 +6,7 @@ Ce projet permet d'analyser la robustesse d'une liste de mots de passe et propos
 
 - `password_analyzer.py` : script principal
 - `passwords.txt` : fichier d'exemple
-- `webapp/` : interface web Flask
+- `webapp/` : interface web Flask (Modifier le titre du dossier "application web" par "webapp")
 - Scripts d'installation : `.sh` et `.bat`
 - `README.md` : ce guide
 
